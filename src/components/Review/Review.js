@@ -2,7 +2,6 @@ import React from 'react';
 import ReviewProduct from '../ReviewProduct/ReviewProduct';
 
 const Review = (props) => {
-    console.log(props.cart);
     return (
         <div>
             <h2>Review Section</h2>

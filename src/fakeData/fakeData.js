@@ -22,7 +22,8 @@ var product = [
             }
         ],
         "price": 68.36,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01LZ2WZGH",
@@ -38,7 +39,8 @@ var product = [
         "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_electronics_sr_pg1_2?ie=UTF8&adId=A04941221ULRUNSJPY1RW&url=https%3A%2F%2Fwww.amazon.com%2FManfrotto-MB-LF-WN-BP-backpack-Lifestyle%2Fdp%2FB01LZ2WZGH%2Fref%3Dsr_1_2%3Fs%3Delectronics%26ie%3DUTF8%26qid%3D1499124890%26sr%3D1-2-spons%26keywords%3Dlaptop%26psc%3D1&qualifier=1499124889&id=6267744216991374&widgetName=sp_atf",
         "features": [],
         "price": 169.88,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01K1IO3QW",
@@ -75,7 +77,8 @@ var product = [
             }
         ],
         "price": 349.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01LD4MGY4",
@@ -112,7 +115,8 @@ var product = [
             }
         ],
         "price": 579.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01M18UZF5",
@@ -149,7 +153,8 @@ var product = [
             }
         ],
         "price": 699,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01DBGVB7K",
@@ -186,7 +191,8 @@ var product = [
             }
         ],
         "price": 220.49,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B015WXL0C6",
@@ -223,7 +229,8 @@ var product = [
             }
         ],
         "price": 848.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B06Y4GZS9C",
@@ -260,7 +267,8 @@ var product = [
             }
         ],
         "price": 1,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B06XJJG4PD",
@@ -297,7 +305,8 @@ var product = [
             }
         ],
         "price": 499,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01NBE6Y5D",
@@ -334,7 +343,8 @@ var product = [
             }
         ],
         "price": 247.98,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01J42JPJG",
@@ -371,7 +381,8 @@ var product = [
             }
         ],
         "price": 279.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01F4ZG68A",
@@ -408,7 +419,8 @@ var product = [
             }
         ],
         "price": 212.33,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01D27ERMO",
@@ -445,7 +457,8 @@ var product = [
             }
         ],
         "price": 498.94,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B06X6J2RLY",
@@ -482,7 +495,8 @@ var product = [
             }
         ],
         "price": 287.94,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01N5G5PG2",
@@ -519,7 +533,8 @@ var product = [
             }
         ],
         "price": 499,
-        "shipping": 0
+        "shipping": 0,
+		"quantity": 0
     },
     {
         "key": "B01LZ6XKS6",
@@ -556,7 +571,8 @@ var product = [
             }
         ],
         "price": 408.45,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B06XFGF7SN",
@@ -593,7 +609,8 @@ var product = [
             }
         ],
         "price": 899.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01LT692RK",
@@ -630,7 +647,8 @@ var product = [
             }
         ],
         "price": 199,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B071LB1GG4",
@@ -667,7 +685,8 @@ var product = [
             }
         ],
         "price": 549.99,
-        "shipping": 0
+        "shipping": 0,
+		"quantity": 0
     },
     {
         "key": "B01CVOLVPA",
@@ -704,7 +723,8 @@ var product = [
             }
         ],
         "price": 294.98,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01EIUOSRS",
@@ -741,7 +761,8 @@ var product = [
             }
         ],
         "price": 799.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01JLCKP34",
@@ -778,7 +799,8 @@ var product = [
             }
         ],
         "price": 219.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B071SF41Y9",
@@ -815,7 +837,8 @@ var product = [
             }
         ],
         "price": 1,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01N5P6TJW",
@@ -852,7 +875,8 @@ var product = [
             }
         ],
         "price": 169,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01M8J68W0",
@@ -868,7 +892,8 @@ var product = [
         "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_electronics_sr_pg1_1?ie=UTF8&adId=A03286941HBVHVI1MCDYH&url=https%3A%2F%2Fwww.amazon.com%2FKayond-Pattern-Canvas-12-5inch-macbook%2Fdp%2FB01M8J68W0%2Fref%3Dsr_1_27%3Fs%3Delectronics%26ie%3DUTF8%26qid%3D1499124890%26sr%3D1-27-spons%26keywords%3Dlaptop%26psc%3D1&qualifier=1499124889&id=6267744216991374&widgetName=sp_btf",
         "features": [],
         "price": 11.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B072TY6LZL",
@@ -884,7 +909,8 @@ var product = [
         "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_electronics_sr_pg1_2?ie=UTF8&adId=A08835611S2XQ8K5PH7WW&url=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Protector-Megoo-Tempered-Anti-scratch%2Fdp%2FB072TY6LZL%2Fref%3Dsr_1_28%3Fs%3Delectronics%26ie%3DUTF8%26qid%3D1499124890%26sr%3D1-28-spons%26keywords%3Dlaptop%26psc%3D1&qualifier=1499124889&id=6267744216991374&widgetName=sp_btf",
         "features": [],
         "price": 17.77,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B00OSTKZWM",
@@ -921,7 +947,8 @@ var product = [
             }
         ],
         "price": 57.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01H2E0J5M",
@@ -958,7 +985,8 @@ var product = [
             }
         ],
         "price": 59.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B0713WPJKX",
@@ -974,7 +1002,8 @@ var product = [
         "url": "https://www.amazon.com/Celltronics-Tangle-free-Charging-Bluetooth-Speaker-3/dp/B0713WPJKX/ref=sr_1_3?s=electronics&ie=UTF8&qid=1499124822&sr=1-3&keywords=android",
         "features": [],
         "price": 10.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01LPZD1N6",
@@ -1011,7 +1040,8 @@ var product = [
             }
         ],
         "price": 164.9,
-        "shipping": 0
+        "shipping": 0,
+		"quantity": 0
     },
     {
         "key": "B01N1SE4EP",
@@ -1048,7 +1078,8 @@ var product = [
             }
         ],
         "price": 49.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B017LDNLIG",
@@ -1085,7 +1116,8 @@ var product = [
             }
         ],
         "price": 19.94,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B018IZ0SWI",
@@ -1122,7 +1154,8 @@ var product = [
             }
         ],
         "price": 59.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01N4HS7B8",
@@ -1138,7 +1171,8 @@ var product = [
         "url": "https://www.amazon.com/Smart-Wechip-Android-Marshmallow-Amlogic/dp/B01N4HS7B8/ref=sr_1_8?s=electronics&ie=UTF8&qid=1499124822&sr=1-8&keywords=android",
         "features": [],
         "price": 53.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01LX0JZUM",
@@ -1154,7 +1188,8 @@ var product = [
         "url": "https://www.amazon.com/ONSON-Android-Charger-Braided-Charging/dp/B01LX0JZUM/ref=sr_1_9?s=electronics&ie=UTF8&qid=1499124822&sr=1-9&keywords=android",
         "features": [],
         "price": 11.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B072NYXDLY",
@@ -1179,7 +1214,8 @@ var product = [
             }
         ],
         "price": 68.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B071RK857H",
@@ -1204,7 +1240,8 @@ var product = [
             }
         ],
         "price": 65.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B06XWMQRS6",
@@ -1220,7 +1257,8 @@ var product = [
         "url": "https://www.amazon.com/QacQoc-Android-Marshmallow-Amlogic-Unlocked/dp/B06XWMQRS6/ref=sr_1_12?s=electronics&ie=UTF8&qid=1499124822&sr=1-12&keywords=android",
         "features": [],
         "price": 49.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01N41AKT3",
@@ -1245,7 +1283,8 @@ var product = [
             }
         ],
         "price": 25.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B06XY8W1DC",
@@ -1261,7 +1300,8 @@ var product = [
         "url": "https://www.amazon.com/T2-Streaming-Devices-Players-Android/dp/B06XY8W1DC/ref=sr_1_14?s=electronics&ie=UTF8&qid=1499124822&sr=1-14&keywords=android",
         "features": [],
         "price": 29.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01N0VVQ13",
@@ -1277,7 +1317,8 @@ var product = [
         "url": "https://www.amazon.com/Goodsail-Charging-Motorola-Blackberry-Smartphones/dp/B01N0VVQ13/ref=sr_1_15?s=electronics&ie=UTF8&qid=1499124822&sr=1-15&keywords=android",
         "features": [],
         "price": 9.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01JOT42JW",
@@ -1293,7 +1334,8 @@ var product = [
         "url": "https://www.amazon.com/GooBang-Doo-Android-Amlogic-Playing/dp/B01JOT42JW/ref=sr_1_16?s=electronics&ie=UTF8&qid=1499124822&sr=1-16&keywords=android",
         "features": [],
         "price": 39.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B06Y5PY61J",
@@ -1309,7 +1351,8 @@ var product = [
         "url": "https://www.amazon.com/RBSCH-Android-Amlogic-100Mbps-player/dp/B06Y5PY61J/ref=sr_1_17?s=electronics&ie=UTF8&qid=1499124822&sr=1-17&keywords=android",
         "features": [],
         "price": 44.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B0182YJ4V6",
@@ -1346,7 +1389,8 @@ var product = [
             }
         ],
         "price": 37.5,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01GL7EB50",
@@ -1362,7 +1406,8 @@ var product = [
         "url": "https://www.amazon.com/Pandawell-Portable-Rotating-Samsung-Android/dp/B01GL7EB50/ref=sr_1_19?s=electronics&ie=UTF8&qid=1499124822&sr=1-19&keywords=android",
         "features": [],
         "price": 4.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B06XKH29C8",
@@ -1399,7 +1444,8 @@ var product = [
             }
         ],
         "price": 99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01MG086CV",
@@ -1415,7 +1461,8 @@ var product = [
         "url": "https://www.amazon.com/Certified-Charging-Android-YellowKnife-Lightning/dp/B01MG086CV/ref=sr_1_21?s=electronics&ie=UTF8&qid=1499124822&sr=1-21&keywords=android",
         "features": [],
         "price": 11.98,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01MUA1QMU",
@@ -1440,7 +1487,8 @@ var product = [
             }
         ],
         "price": 20.81,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B015MJLEUS",
@@ -1456,7 +1504,8 @@ var product = [
         "url": "https://www.amazon.com/Anker-3-Pack-PowerLine-Micro-USB/dp/B015MJLEUS/ref=sr_1_23?s=electronics&ie=UTF8&qid=1499124822&sr=1-23&keywords=android",
         "features": [],
         "price": 10.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B06WWPFVNV",
@@ -1481,7 +1530,8 @@ var product = [
             }
         ],
         "price": 34.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B00NH2COZC",
@@ -1497,7 +1547,8 @@ var product = [
         "url": "https://www.amazon.com/Native-Union-Android-Micro-USB-Charging/dp/B00NH2COZC/ref=sr_1_25?s=electronics&ie=UTF8&qid=1499124822&sr=1-25&keywords=android",
         "features": [],
         "price": 39.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01DMVLE7Q",
@@ -1534,7 +1585,8 @@ var product = [
             }
         ],
         "price": 129.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B017SD8RWO",
@@ -1550,7 +1602,8 @@ var product = [
         "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_electronics_sr_pg1_2?ie=UTF8&adId=A07535107J9TJPUG5AAX&url=https%3A%2F%2Fwww.amazon.com%2FZmodo-Outdoor-Wireless-Security-Surveillance%2Fdp%2FB017SD8RWO%2Fref%3Dsr_1_27%3Fs%3Delectronics%26ie%3DUTF8%26qid%3D1499124822%26sr%3D1-27-spons%26keywords%3Dandroid%26psc%3D1&qualifier=1499124826&id=4777421193755769&widgetName=sp_btf",
         "features": [],
         "price": 99.99,
-        "shipping": 0
+        "shipping": 0,
+		"quantity": 0
     },
     {
         "key": "B01N5PRSOT",
@@ -1566,7 +1619,8 @@ var product = [
         "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_electronics_sr_pg1_3?ie=UTF8&adId=A00155643QO9QUBJOBSJT&url=https%3A%2F%2Fwww.amazon.com%2FEVANPO-Android-Amlogic-Player-Keyboard%2Fdp%2FB01N5PRSOT%2Fref%3Dsr_1_28%3Fs%3Delectronics%26ie%3DUTF8%26qid%3D1499124822%26sr%3D1-28-spons%26keywords%3Dandroid%26psc%3D1&qualifier=1499124826&id=4777421193755769&widgetName=sp_btf",
         "features": [],
         "price": 48.98,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B016F3M7OM",
@@ -1591,7 +1645,8 @@ var product = [
             }
         ],
         "price": 39.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01MQ0FSS0",
@@ -1607,7 +1662,8 @@ var product = [
         "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_electronics_sr_pg1_2?ie=UTF8&adId=A05196583793V13Q2RYYJ&url=https%3A%2F%2Fwww.amazon.com%2FCyber-Shot-DSC-RX100-Digital-Camera-Accessory%2Fdp%2FB01MQ0FSS0%2Fref%3Dsr_1_2%3Fs%3Delectronics%26ie%3DUTF8%26qid%3D1499124549%26sr%3D1-2-spons%26keywords%3Dcamera%26psc%3D1&qualifier=1499124549&id=8228299164163419&widgetName=sp_atf",
         "features": [],
         "price": 499,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01KVIN26O",
@@ -1632,7 +1688,8 @@ var product = [
             }
         ],
         "price": 11.98,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B00UV6I8QQ",
@@ -1665,7 +1722,8 @@ var product = [
             }
         ],
         "price": 148,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B00W68DSWQ",
@@ -1681,7 +1739,8 @@ var product = [
         "url": "https://www.amazon.com/International-Batteries-Accessory-HeroFiber-Cleaning/dp/B00W68DSWQ/ref=sr_1_5?s=electronics&ie=UTF8&qid=1499124549&sr=1-5&keywords=camera",
         "features": [],
         "price": 239.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01N6E66RN",
@@ -1697,7 +1756,8 @@ var product = [
         "url": "https://www.amazon.com/Aberg-Best-pixels-Digital-Camera/dp/B01N6E66RN/ref=sr_1_6?s=electronics&ie=UTF8&qid=1499124549&sr=1-6&keywords=camera",
         "features": [],
         "price": 35,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01CG62D00",
@@ -1734,7 +1794,8 @@ var product = [
             }
         ],
         "price": 66.4,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01LWPSB57",
@@ -1763,7 +1824,8 @@ var product = [
             }
         ],
         "price": 53.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01D93Z89W",
@@ -1779,7 +1841,8 @@ var product = [
         "url": "https://www.amazon.com/Canon-T6-Digital-Telephoto-Accessory/dp/B01D93Z89W/ref=sr_1_9?s=electronics&ie=UTF8&qid=1499124549&sr=1-9&keywords=camera",
         "features": [],
         "price": 469,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01N0XDRYO",
@@ -1795,7 +1858,8 @@ var product = [
         "url": "https://www.amazon.com/KINGEAR-PDC001-2-7-Digital-Camera/dp/B01N0XDRYO/ref=sr_1_10?s=electronics&ie=UTF8&qid=1499124549&sr=1-10&keywords=camera",
         "features": [],
         "price": 46.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01MRWZ4KL",
@@ -1811,7 +1875,8 @@ var product = [
         "url": "https://www.amazon.com/KINGEAR-KG002-inch-Digital-Camera/dp/B01MRWZ4KL/ref=sr_1_11?s=electronics&ie=UTF8&qid=1499124549&sr=1-11&keywords=camera",
         "features": [],
         "price": 45.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B006J0SVWE",
@@ -1840,7 +1905,8 @@ var product = [
             }
         ],
         "price": 25.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B019UDHOMO",
@@ -1877,7 +1943,8 @@ var product = [
             }
         ],
         "price": 119,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01M7V2FKC",
@@ -1893,7 +1960,8 @@ var product = [
         "url": "https://www.amazon.com/Mini-Digital-Camera-KINGEAR-Black/dp/B01M7V2FKC/ref=sr_1_14?s=electronics&ie=UTF8&qid=1499124549&sr=1-14&keywords=camera",
         "features": [],
         "price": 46.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B071Z19L5T",
@@ -1909,7 +1977,8 @@ var product = [
         "url": "https://www.amazon.com/Nikon-Coolpix-L340-Digital-3-0-Inch/dp/B071Z19L5T/ref=sr_1_15?s=electronics&ie=UTF8&qid=1499124549&sr=1-15&keywords=camera",
         "features": [],
         "price": 169.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01N6NDHPY",
@@ -1925,7 +1994,8 @@ var product = [
         "url": "https://www.amazon.com/PowerLead-Optical-Anti-shake-Capture-Digital/dp/B01N6NDHPY/ref=sr_1_16?s=electronics&ie=UTF8&qid=1499124549&sr=1-16&keywords=camera",
         "features": [],
         "price": 65.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B00THKEKEQ",
@@ -1962,7 +2032,8 @@ var product = [
             }
         ],
         "price": 159.95,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01MQIFINS",
@@ -1978,7 +2049,8 @@ var product = [
         "url": "https://www.amazon.com/Canon-18-55mm-3-5-5-6-SanDisk-Accessory/dp/B01MQIFINS/ref=sr_1_18?s=electronics&ie=UTF8&qid=1499124549&sr=1-18&keywords=camera",
         "features": [],
         "price": 465,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B01BMFXNQE",
@@ -1994,7 +2066,8 @@ var product = [
         "url": "https://www.amazon.com/iGadgitz-Lightweight-Stabilizer-Digital-Camcorder/dp/B01BMFXNQE/ref=sr_1_19?s=electronics&ie=UTF8&qid=1499124549&sr=1-19&keywords=camera",
         "features": [],
         "price": 15.99,
-        "shipping": 0
+        "shipping": 0,
+		"quantity": 0
     },
     {
         "key": "B06XCMCFZW",
@@ -2010,7 +2083,8 @@ var product = [
         "url": "https://www.amazon.com/Digital-Camera-KINGEAR-2-7-inch/dp/B06XCMCFZW/ref=sr_1_20?s=electronics&ie=UTF8&qid=1499124549&sr=1-20&keywords=camera",
         "features": [],
         "price": 43.99,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B071G4XXZ4",
@@ -2026,7 +2100,8 @@ var product = [
         "url": "https://www.amazon.com/Btopllc-Recorder-Recording-Dashboard-Recorder-Black/dp/B071G4XXZ4/ref=sr_1_21?s=electronics&ie=UTF8&qid=1499124549&sr=1-21&keywords=camera",
         "features": [],
         "price": 18.95,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B00HE9G3UQ",
@@ -2042,7 +2117,8 @@ var product = [
         "url": "https://www.amazon.com/SGC-598-Photography-Interview-Microphone-Interface/dp/B00HE9G3UQ/ref=sr_1_22?s=electronics&ie=UTF8&qid=1499124549&sr=1-22&keywords=camera",
         "features": [],
         "price": 26.9,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B00I8BIBCW",
@@ -2079,7 +2155,8 @@ var product = [
             }
         ],
         "price": 89.98,
-        "shipping": 3.99
+        "shipping": 3.99,
+		"quantity": 0
     },
     {
         "key": "B01MY0HQWS",
@@ -2095,7 +2172,8 @@ var product = [
         "url": "https://www.amazon.com/KINGEAR-KG0016-Optical-Digital-Camera/dp/B01MY0HQWS/ref=sr_1_25?s=electronics&ie=UTF8&qid=1499124549&sr=1-25&keywords=camera",
         "features": [],
         "price": 59.89,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     },
     {
         "key": "B00RKNND2W",
@@ -2132,7 +2210,8 @@ var product = [
             }
         ],
         "price": 249,
-        "shipping": 0
+        "shipping": 0,
+		"quantity": 0
     },
     {
         "key": "B06XGZB6P3",
@@ -2148,7 +2227,8 @@ var product = [
         "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_electronics_sr_pg1_1?ie=UTF8&adId=A0699155IZEFEU9092Y5&url=https%3A%2F%2Fwww.amazon.com%2FEK7000-Waterproof-Outdoor-Adventure-Mounting%2Fdp%2FB06XGZB6P3%2Fref%3Dsr_1_27%3Fs%3Delectronics%26ie%3DUTF8%26qid%3D1499124549%26sr%3D1-27-spons%26keywords%3Dcamera%26psc%3D1&qualifier=1499124549&id=8228299164163419&widgetName=sp_btf",
         "features": [],
         "price": 116.33,
-        "shipping": 0
+        "shipping": 0,
+		"quantity": 0
     },
     {
         "key": "B06XRTN893",
@@ -2173,7 +2253,8 @@ var product = [
             }
         ],
         "price": 49.99,
-        "shipping": 7.99
+        "shipping": 7.99,
+		"quantity": 0
     }
 ]
 
