@@ -23,6 +23,7 @@ const Shop = () => {
   };
 
   const handleRemoveProduct = (product) => {
+	product.quantity = 0
     const newProduct = cart.filter(pd => pd.key!== product.key);
     setCart(newProduct);
   };
